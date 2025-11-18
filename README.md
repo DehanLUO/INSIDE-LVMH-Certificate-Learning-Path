@@ -20,7 +20,7 @@ This repository contains notes, insights, and resources from the INSIDE LVMH Cer
 | Luxury & Society                      | ✅ Completed | [View Notes](./Notes/Luxury-and-Society.md)           |
 | Elective 1: Creation & Branding       | ✅ Completed | [View Notes](./Notes/Creation-and-Branding.md)        |
 | Elective 2: Operations & Supply Chain | ✅ Completed | [View Notes](./Notes/Operations-and-Supply-Chain.md)  |
-| Final Assessment                      | ⏳ Upcoming  | [View Notes](./Notes/Final-Assessment.md)             |
+| Final Assessment                      | ✅ Completed | [View Notes](./Notes/Final-Assessment.md)             |
 
 
 ## ⚠️ Disclaimer
