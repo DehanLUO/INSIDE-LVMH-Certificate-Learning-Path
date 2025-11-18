@@ -14,13 +14,13 @@ This repository contains notes, insights, and resources from the INSIDE LVMH Cer
 
 **Completion Deadline:** December 17, 2025 (11:59 PM UTC)
 
-| Course                                | Status       | Link                                                  |
-| ------------------------------------- | ------------ | ----------------------------------------------------- |
-| LVMH & the Luxury Industry            | ✅ Completed | [View Notes](./Notes/LVMH-and-the-Luxury-Industry.md) |
-| Luxury & Society                      | ✅ Completed | [View Notes](./Notes/Luxury-and-Society.md)           |
-| Elective 1: Creation & Branding       | ✅ Completed | [View Notes](./Notes/Creation-and-Branding.md)        |
-| Elective 2: Operations & Supply Chain | ✅ Completed | [View Notes](./Notes/Operations-and-Supply-Chain.md)  |
-| Final Assessment                      | ✅ Completed | [View Notes](./Notes/Final-Assessment.md)             |
+| Course                                | Status       | Link                                                    |
+| ------------------------------------- | ------------ | ------------------------------------------------------- |
+| LVMH & the Luxury Industry            | ✅ Completed | [View Notes](./Notes/LVMH-and-the-Luxury-Industry.md)    |
+| Luxury & Society                      | ✅ Completed | [View Notes](./Notes/Luxury-and-Society.md)              |
+| Elective 1: Creation & Branding       | ✅ Completed | [View Notes](./Notes/Creation-and-Branding.md)           |
+| Elective 2: Operations & Supply Chain | ✅ Completed | [View Notes](./Notes/Operations-and-Supply-Chain.md)     |
+| Final Assessment                      | ✅ Completed | [View Notes](./Notes/INSIDE-LVMH-CERTIFICATE-TRACK-1.md) |
 
 
 ## ⚠️ Disclaimer
